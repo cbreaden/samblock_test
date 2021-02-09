@@ -23,6 +23,14 @@
         "id": "https://cbreaden.github.io/samblock_test/sinsheimer_samblock/canvas-1/canvas",
         "type": "Canvas",
         "duration": 2864.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://cbreaden.github.io/samblock_test/sinsheimer_samblock/canvas-1/canvas/description.json",
+            "label": "Description"
+          }
+        ],
         "items": [
           {
             "id": "https://cbreaden.github.io/samblock_test/sinsheimer_samblock/canvas-1/paintings",
