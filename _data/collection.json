@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "Sam Block Oral History" ] },
+    "summary": { "en": [ "Oral history with SNCC worker Sam Block, interviewed by Joseph Sinsheimer, collected in the Joseph Sinsheimer Oral History Collection, Rubenstein Library, Duke University." ] },
+    "items": [
+    ]
+}
