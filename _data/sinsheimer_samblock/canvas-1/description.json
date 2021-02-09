@@ -1,0 +1,281 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://cbreaden.github.io/samblock_test/sinsheimer_samblock/canvas-1/canvas/description.json",
+  "type": "AnnotationPage",
+  "label": "Description",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://cbreaden.github.io/samblock_test/sinsheimer_samblock/canvas-1/canvas/description-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": null,
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://cbreaden.github.io/samblock_test/sinsheimer_samblock/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "00:00:00,Sinsheimer tests sound for transcription quality"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://cbreaden.github.io/samblock_test/sinsheimer_samblock/canvas-1/canvas/description-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": null,
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://cbreaden.github.io/samblock_test/sinsheimer_samblock/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "00:00:15,\"New content, possibly content recorded over\""
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://cbreaden.github.io/samblock_test/sinsheimer_samblock/canvas-1/canvas/description-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": null,
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://cbreaden.github.io/samblock_test/sinsheimer_samblock/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "00:00:50,Sam Block begins telling his story"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://cbreaden.github.io/samblock_test/sinsheimer_samblock/canvas-1/canvas/description-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": null,
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://cbreaden.github.io/samblock_test/sinsheimer_samblock/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "00:02:00,\"Tells story of working for Judge Greene, mowing the judge's lawn\""
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://cbreaden.github.io/samblock_test/sinsheimer_samblock/canvas-1/canvas/description-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": null,
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://cbreaden.github.io/samblock_test/sinsheimer_samblock/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "00:02:30,Block's mother worked for Judge Greene as a housekeeper and cook"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://cbreaden.github.io/samblock_test/sinsheimer_samblock/canvas-1/canvas/description-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": null,
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://cbreaden.github.io/samblock_test/sinsheimer_samblock/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "00:03:15,Sinsheimer clarifies the Judge's name was Ed Greene."
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://cbreaden.github.io/samblock_test/sinsheimer_samblock/canvas-1/canvas/description-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": null,
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://cbreaden.github.io/samblock_test/sinsheimer_samblock/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "00:02:30-00:03:30,\"Sam couldn't mow lawn because it was wet, but wanted money to go to the basketball game, decided to ask the judge to pay him ahead of mowing the lawn.\""
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://cbreaden.github.io/samblock_test/sinsheimer_samblock/canvas-1/canvas/description-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": null,
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://cbreaden.github.io/samblock_test/sinsheimer_samblock/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "00:04:00,\"Greene tells same to use back entrance, hurts Sam, who'd been told the Judge loved them.\""
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://cbreaden.github.io/samblock_test/sinsheimer_samblock/canvas-1/canvas/description-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": null,
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://cbreaden.github.io/samblock_test/sinsheimer_samblock/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "00:04:30,\"Sam asks judge for money, but judge tells him he's too busy.\""
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://cbreaden.github.io/samblock_test/sinsheimer_samblock/canvas-1/canvas/description-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": null,
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://cbreaden.github.io/samblock_test/sinsheimer_samblock/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "00:06:01,Knocking on wall."
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://cbreaden.github.io/samblock_test/sinsheimer_samblock/canvas-1/canvas/description-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": null,
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://cbreaden.github.io/samblock_test/sinsheimer_samblock/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "00:05:30-00:06:30,Sam goes to seed company to call the judge."
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://cbreaden.github.io/samblock_test/sinsheimer_samblock/canvas-1/canvas/description-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": null,
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://cbreaden.github.io/samblock_test/sinsheimer_samblock/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "00:05:45-00:06:45,\"Judge calls back, seed company owner picks up, Sam overhears from another line the judge calling him and his mother a racial epithet and other ugly language.\""
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://cbreaden.github.io/samblock_test/sinsheimer_samblock/canvas-1/canvas/description-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": null,
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://cbreaden.github.io/samblock_test/sinsheimer_samblock/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "00:07:55,Sinsheimer clarifies it was the Pace Seed Company."
+        }
+      }
+    }
+  ]
+}
