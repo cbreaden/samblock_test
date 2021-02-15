@@ -1,0 +1,46 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://cbreaden.github.io/samblock_test/joseph-sinsheimer-interview-with-sam-block-part-1/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "Joseph Sinsheimer Interview with Sam Block Part 1" ] },
+    "homepage": [
+      {
+        "id": "https://repository.duke.edu/dc/sinsheimerjoseph/bd21bf29-0448-4897-ae32-2ab0ae5e06f2",
+        "type": "Text",
+        "label": { "en": [ "Joseph Sinsheimer Interview with Sam Block Part 1" ] },
+        "format": "text/html"
+      }
+    ],
+    "provider": [
+      {
+        "id": "https://repository.duke.edu/",
+        "type": "Agent",
+        "label": { "en": [ "Duke Digital Repository" ] }
+      }
+    ],
+    "items": [
+      {
+        "id": "https://cbreaden.github.io/samblock_test/joseph-sinsheimer-interview-with-sam-block-part-1/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 2864.0,
+        "items": [
+          {
+            "id": "https://cbreaden.github.io/samblock_test/joseph-sinsheimer-interview-with-sam-block-part-1/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://cbreaden.github.io/samblock_test/joseph-sinsheimer-interview-with-sam-block-part-1/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://repository.duke.edu/stream/27113143-5038-4e5e-a055-c291c5c2a646",
+                    "duration": 2864.0
+                },
+                "target": "https://cbreaden.github.io/samblock_test/joseph-sinsheimer-interview-with-sam-block-part-1/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
