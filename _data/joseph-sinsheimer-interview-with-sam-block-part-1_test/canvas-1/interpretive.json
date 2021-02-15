@@ -1,0 +1,113 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://cbreaden.github.io/samblock_test/joseph-sinsheimer-interview-with-sam-block-part-1_test/canvas-1/canvas/interpretive.json",
+  "type": "AnnotationPage",
+  "label": "Interpretive",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://cbreaden.github.io/samblock_test/joseph-sinsheimer-interview-with-sam-block-part-1_test/canvas-1/canvas/interpretive-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "New content, possibly recorded over.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://cbreaden.github.io/samblock_test/joseph-sinsheimer-interview-with-sam-block-part-1_test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "-0.322573,52.579395"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://cbreaden.github.io/samblock_test/joseph-sinsheimer-interview-with-sam-block-part-1_test/canvas-1/canvas/interpretive-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Sinsheimer tests sound.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://cbreaden.github.io/samblock_test/joseph-sinsheimer-interview-with-sam-block-part-1_test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "0.000000,16.451222"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://cbreaden.github.io/samblock_test/joseph-sinsheimer-interview-with-sam-block-part-1_test/canvas-1/canvas/interpretive-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Sam Block begins telling his story",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://cbreaden.github.io/samblock_test/joseph-sinsheimer-interview-with-sam-block-part-1_test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "52.579395,121.287438"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://cbreaden.github.io/samblock_test/joseph-sinsheimer-interview-with-sam-block-part-1_test/canvas-1/canvas/interpretive-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "TEST2ndTrack",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://cbreaden.github.io/samblock_test/joseph-sinsheimer-interview-with-sam-block-part-1_test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "31.289578,94.836454"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://cbreaden.github.io/samblock_test/joseph-sinsheimer-interview-with-sam-block-part-1_test/canvas-1/canvas/interpretive-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "TEST3rdTrack",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://cbreaden.github.io/samblock_test/joseph-sinsheimer-interview-with-sam-block-part-1_test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "0.000000,57.095416"
+        }
+      }
+    }
+  ]
+}
